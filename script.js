@@ -1,0 +1,1 @@
+alert("only open in desktop mode")
